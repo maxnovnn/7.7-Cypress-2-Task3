@@ -1,0 +1,16 @@
+{
+  "name": "7.7-cypress-2-task3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dash": "npx cypress run --record --key npx cypress run --record --key 552b81b6-867b-4e35-9721-27bacdf09289"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.8.1"
+  }
+}
